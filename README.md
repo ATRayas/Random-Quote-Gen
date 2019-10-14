@@ -5,3 +5,6 @@ JavaScript stored links and the random logic to get the random quotes with their
 View on Githubpages: https://atrayas.github.io/Random-Quote-Gen/
 
 You can also view here on Codepen. Original URL: [https://codepen.io/alex21lib/pen/LyMbgp](https://codepen.io/alex21lib/pen/LyMbgp).
+
+![RandomQuote](https://user-images.githubusercontent.com/15331986/66732435-c8f68f80-ee10-11e9-9ee6-ef11c7973d87.png)
+
