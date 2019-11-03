@@ -5,7 +5,7 @@ body {
     background-image: url('https://s-media-cache-ak0.pinimg.com/originals/9b/9c/ef/9b9cefa3d0b19285a39163230b8edb09.jpg');
 /*     background-repeat: repeat;  */
     background-attachment: fixed;
-    background-position: center; 
+    /* background-position: center;  */
 }
 h1{
 /*   color:white; */
